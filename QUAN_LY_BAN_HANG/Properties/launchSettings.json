@@ -1,0 +1,32 @@
+﻿{
+  /*"ConnectionString": {
+    "QuanLyBanHangConnection": "Data Source = ((HOST = 127.0.0.1)(PORT = 3306)(CONNECT_DATA=quan_ly_cua_hang_do_an)); User Id=root ; Password=thanhlonga11 "
+  }*/
+
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:57461",
+      "sslPort": 44386
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "QUAN_LY_BAN_HANG": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

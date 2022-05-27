@@ -1,0 +1,16 @@
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\bin\Debug\net5.0\BanHang.Domain.exe
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\bin\Debug\net5.0\BanHang.Domain.deps.json
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\bin\Debug\net5.0\BanHang.Domain.runtimeconfig.json
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\bin\Debug\net5.0\BanHang.Domain.runtimeconfig.dev.json
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\bin\Debug\net5.0\BanHang.Domain.dll
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\bin\Debug\net5.0\BanHang.Domain.pdb
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\obj\Debug\net5.0\BanHang.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\obj\Debug\net5.0\BanHang.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\obj\Debug\net5.0\BanHang.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\obj\Debug\net5.0\BanHang.Domain.AssemblyInfo.cs
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\obj\Debug\net5.0\BanHang.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\obj\Debug\net5.0\BanHang.Domain.dll
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\obj\Debug\net5.0\refint\BanHang.Domain.dll
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\obj\Debug\net5.0\BanHang.Domain.pdb
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\obj\Debug\net5.0\BanHang.Domain.genruntimeconfig.cache
+C:\Users\Admin1\source\repos\QUAN_LY_BAN_HANG\BanHang.Domain\obj\Debug\net5.0\ref\BanHang.Domain.dll
